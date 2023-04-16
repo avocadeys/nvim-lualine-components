@@ -13,7 +13,7 @@ small fancy components for your <a href="https://github.com/nvim-lualine/lualine
 </p>
 
 <p align="center">
-  <img src=""/>
+  <img src="/screenshots/preview.png"/>
 </p>
 
 # Installation
