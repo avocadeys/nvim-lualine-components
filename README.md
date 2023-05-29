@@ -39,5 +39,3 @@ section = {
 # Components
 
 - `lsp_servers`: it display the current connected lsp servers.
-
-more components will be added soon!
